@@ -1,7 +1,7 @@
 # Android Layout Part A
 
-Screenshot hasil running
-![Screenshot](images/partA.png)
+Screenshot hasil </br>
+![Screenshot](images/partA.png) </br>
 
-Nama: Dewangga Putra
+Nama: Dewangga Putra</br>
 Kelas: TI-3B
